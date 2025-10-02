@@ -13,7 +13,7 @@ const About = () => {
       <p className="text-lg md:text-xl max-w-3xl mb-8 leading-relaxed">
         My name is <span className="font-bold">Brian Kibet</span>, a dedicated
         and creative web designer passionate about building digital experiences
-        that are modern, responsive, and user-friendly.  
+        that are modern, responsive, and user-friendly.
         <br /> <br />
         I specialize in blending clean UI design with strong technical
         implementation, making sure every website I create is both visually
